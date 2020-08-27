@@ -1,0 +1,3 @@
+include ':hardwareutils'
+include ':app'
+rootProject.name = "HarewareUtils"
